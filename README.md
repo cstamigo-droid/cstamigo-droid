@@ -43,5 +43,5 @@ me la enseñó el turno de noche, no un manual.
 ## Dónde encontrarme
 
 - GitHub: [@cstamigo-droid](https://github.com/cstamigo-droid)
-- LinkedIn: [cristian-amigo](https://www.linkedin.com/in/cristian-amigo-3a726a362)
+- LinkedIn: [cristian-amigo](https://www.linkedin.com/in/cristian-amigo-dev)
 - Correo: cstamigo@gmail.com
