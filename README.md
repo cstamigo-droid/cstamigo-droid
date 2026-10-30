@@ -1,5 +1,7 @@
 # Hola, soy Cristian Amigo 👋
 
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
 Vengo del soporte y la infraestructura de TI, y hoy estoy formándome como
 **desarrollador Java backend**. Me interesa la parte del software que no se ve: cómo se
 guardan los datos, cómo se protege el acceso y cómo dos sistemas se ponen de acuerdo para
@@ -35,7 +37,6 @@ la parte de integración — que un sistema le entregue datos a otro sin interve
 
 ## Contribuciones open source
 
-[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
 17 pull requests fusionados en [Kestra](https://github.com/kestra-io) durante Kestra Hacktober 2026
 (núcleo, plugins, documentación y blueprints), cada arreglo con su test de regresión.
