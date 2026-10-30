@@ -33,9 +33,16 @@ Aplicaciones de gestión con API REST detrás: sistemas donde varias personas co
 permisos trabajan sobre los mismos datos y todo queda registrado. Me interesa especialmente
 la parte de integración — que un sistema le entregue datos a otro sin intervención manual.
 
+## Contribuciones open source
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
+17 pull requests fusionados en [Kestra](https://github.com/kestra-io) durante Kestra Hacktober 2026
+(núcleo, plugins, documentación y blueprints), cada arreglo con su test de regresión.
+
 ## Un dato personal
 
-Pasé cerca de diez años arreglando lo que otros construían, en soporte técnico. Eso me dejó
+Pasé más de trece años arreglando lo que otros construían, en soporte técnico. Eso me dejó
 una costumbre difícil de sacar: antes de dar algo por terminado, lo levanto y lo pruebo.
 Que un programa compile sin errores no significa que haga lo que promete, y esa diferencia
 me la enseñó el turno de noche, no un manual.
