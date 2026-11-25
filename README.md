@@ -2,15 +2,16 @@
 
 [![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
-Vengo del soporte y la infraestructura de TI, y hoy estoy formándome como
-**desarrollador Java backend**. Me interesa la parte del software que no se ve: cómo se
+Vengo del soporte y la infraestructura de TI (más de 13 años), y hoy soy
+**desarrollador Java backend junior**, certificado por SENCE. Me interesa la parte del software que no se ve: cómo se
 guardan los datos, cómo se protege el acceso y cómo dos sistemas se ponen de acuerdo para
 hablar entre ellos.
 
 ## En qué ando
 
-Estoy cursando un bootcamp de desarrollo full stack Java, y en paralelo aplico lo que
-aprendo a proyectos propios. Prefiero terminar cosas chicas que funcionen de verdad antes
+Terminé el curso *Desarrollo de Aplicaciones Full Stack Java Trainee* (Instituto ISEG,
+certificado SENCE, 480 horas, mayo a septiembre de 2026) y estoy buscando mi primer puesto
+como desarrollador. En paralelo sigo aplicando lo que aprendí a proyectos propios. Prefiero terminar cosas chicas que funcionen de verdad antes
 que empezar cosas grandes que queden a medias.
 
 ## Tecnologías
@@ -38,8 +39,8 @@ la parte de integración — que un sistema le entregue datos a otro sin interve
 ## Contribuciones open source
 
 
-17 pull requests fusionados en [Kestra](https://github.com/kestra-io) durante Kestra Hacktober 2026
-(núcleo, plugins, documentación y blueprints), cada arreglo con su test de regresión.
+25 pull requests fusionados en 12 repositorios de [Kestra](https://github.com/kestra-io),
+17 de ellos durante Kestra Hacktober 2026 (núcleo, plugins, documentación y blueprints), cada arreglo con su test de regresión.
 
 ## Un dato personal
 
